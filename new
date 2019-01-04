@@ -1,0 +1,6 @@
+echo "# marvel" >> README.md
+git init
+git add README.md
+git commit -m "Que recherches tu ici-bas"
+git remote add origin https://github.com/whoki/marvel.git
+git push -u origin master
